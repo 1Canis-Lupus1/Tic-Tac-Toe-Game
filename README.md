@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-The classic Tic-Tac-Toe game build completely using <strong>JAVA</strong>!!!
+The classic <em>Tic-Tac-Toe</em> game build completely using <strong>JAVA</strong>!!!
